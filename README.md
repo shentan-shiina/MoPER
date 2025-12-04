@@ -35,9 +35,9 @@ We currently provide the following model formats for MoPER:
 
 
 <p align="center">
-  <img src="images/moper_sw_render_1.jpg" height="400">
-  <img src="images/MoPER_dual_bullet.png" height="400">
-  <img src="images/MoPER_isaacsim.png" height="400">
+  <img src="images/moper_sw_render_1.jpg" height="300">
+  <img src="images/MoPER_dual_bullet.png" height="300">
+  <img src="images/MoPER_isaacsim.png" height="300">
 </p>
 
 ## Miscellanous
